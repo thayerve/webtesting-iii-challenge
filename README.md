@@ -51,12 +51,12 @@ The expected/assumed behavior of the application is listed below.
 
 ### Gate
 
-- defaults to `unlocked` and `open`
+- defaults to `unlocked` and `open` ✅ // Display.test.js
 - cannot be closed or opened if it is locked
 
 ### Dashboard
 
-- shows the controls and display
+- shows the controls and display ✅✅ // Dashboard.test.js
 
 ### Display Component
 
